@@ -1,6 +1,7 @@
 {
  "user1": ["password","Fred","Flintstone"],
- "user2": ["password","Fred","Flintstone"]
+ "user2": ["password","Fred","Flintstone"],
+ "user3": ["password","Fred","Flintstone"]
   
   
 }
